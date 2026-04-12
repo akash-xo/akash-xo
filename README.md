@@ -1,7 +1,7 @@
 
-<div align="center">
-
-<h1 align="center">Hi, I'm Akash!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash!;Frontend+Developer;React+Enthusiast" />
+</p>
 <h3 align="center">Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
