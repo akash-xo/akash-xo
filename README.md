@@ -8,8 +8,6 @@
 <!-- animator-->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=400&lines=Tech+stack" /> </h2>
-<!-- </p> -->
-
 <!-- Tech Stack Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=HTML;CSS;JavaScript;React;Tailwind;Git+%26+GitHub" />
