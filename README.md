@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash!;Frontend+Developer" />
 </p>
-<!-- animator-->
+<!--animator-->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=400&lines=Tech+stack" /> </h2>
 <!-- Tech Stack Typing -->
