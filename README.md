@@ -39,9 +39,5 @@
 <br>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-xo&theme=github_dark" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-xo&theme=github_dark" />
-</p>
-<p align="center">
   <img  width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=60&section=footer"/>
 </p>
