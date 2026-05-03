@@ -1,3 +1,4 @@
+<!--Animated Intro -->
 <p align="center">
   <img width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=60&section=header"/>
 </p>
