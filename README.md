@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=HTML;CSS;JavaScript;React;Tailwind;Git+%26+GitHub" />
 </p>
-
 <br>
 <!-- skill icon -->
 <p align="center">
@@ -21,10 +20,11 @@
 </p>
 
 <br>
-<!-- gif -->
+<!-- gif animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
+
 
 <br>
 <!-- animator-->
