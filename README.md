@@ -2,7 +2,7 @@
 <p align="center">
   <img width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=60&section=header"/>
 </p>
-<!--Animated Intro -->
+<!--Animated    Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash!;Frontend+Developer" />
 </p>
