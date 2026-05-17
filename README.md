@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github&theme=dark" />
 </p>
-
 <br>
 <!-- gif animation -->
 <p align="center">
