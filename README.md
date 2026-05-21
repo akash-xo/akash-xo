@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=HTML;CSS;JavaScript;React;Tailwind;Git+%26+GitHub" />
 </p>
 <br>
-<!-- skill icon -->
+<!--skill icon -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github&theme=dark" />
 </p>
