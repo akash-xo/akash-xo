@@ -29,7 +29,7 @@
 <h2 align="center">
 <!-- <p align="center"> -->
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=400&lines=GitHub+Activity+Dashboard" /> </h2>
-<!-- </p> -->
+<!--</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akash-xo&theme=github_dark&hide_border=true&border_radius=12" />
