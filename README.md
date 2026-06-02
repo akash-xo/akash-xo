@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github&theme=dark" />
 </p>
 <br>
-<!-- gif animation -->
+<!--gif animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
