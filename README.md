@@ -15,7 +15,6 @@
 </p>
 <br>
 
-
 <!--skill icon -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github&theme=dark" />
