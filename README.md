@@ -26,6 +26,7 @@
 <br>
 <!--animator-->
 <h2 align="center">
+  
 <!-- <p align="center"> -->
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=400&lines=GitHub+Activity+Dashboard" /> </h2>
 <!--</p> -->
